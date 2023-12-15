@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/shoper/static/css/main.bf9cfa09.css",
+    "main.js": "/shoper/static/js/main.a3817c18.js",
+    "static/media/banner_kids.png": "/shoper/static/media/banner_kids.fff815a581793a7380fb.png",
+    "static/media/banner_women.png": "/shoper/static/media/banner_women.5a27fc4e4533e57e4676.png",
+    "static/media/banner_mens.png": "/shoper/static/media/banner_mens.eed7197157196f319b17.png",
+    "static/media/hero_image.png": "/shoper/static/media/hero_image.09ff1c4114792a6143c2.png",
+    "static/media/exclusive_image.png": "/shoper/static/media/exclusive_image.e8118f2149d9cb916980.png",
+    "static/media/hand_icon.png": "/shoper/static/media/hand_icon.9c7487cecb600f30901b.png",
+    "index.html": "/shoper/index.html",
+    "main.bf9cfa09.css.map": "/shoper/static/css/main.bf9cfa09.css.map",
+    "main.a3817c18.js.map": "/shoper/static/js/main.a3817c18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf9cfa09.css",
+    "static/js/main.a3817c18.js"
+  ]
+}
